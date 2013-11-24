@@ -4,6 +4,8 @@
 #include <cstdint>
 #include <ctime>
 #include <vector>
+#include <iostream>
+#include <stdexcept>
 
 extern "C" {
 #include <libavcodec/avcodec.h>
